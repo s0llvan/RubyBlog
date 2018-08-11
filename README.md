@@ -6,6 +6,13 @@ Basic blog programming with Rails framework
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
+### Roadmap
+- Registration system
+- Login system
+- Posts system
+- Comments system
+- Profil management
+
 ### Prerequisites
 
 - Rails >= 5.2
@@ -32,7 +39,7 @@ Clone the project repository
 git clone https://github.com/s0llvan/RubyBlog/
 ```
 
-Install bundler dependencies
+Install project dependencies
 
 ```
 cd RubyBlog && bundle install
